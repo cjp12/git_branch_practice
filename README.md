@@ -7,4 +7,8 @@ These are a few of my favorite things:
 - Bright copper kettles
 - Warm woolen mittens
 - Not editing directly on GitHub
+<<<<<<< HEAD
 - Not monster's inc.
+=======
+- next item
+>>>>>>> experiment
