@@ -1,3 +1,2 @@
-"rad"
 
-"Connor you are not nice" 
+"Connor you are nice" 
